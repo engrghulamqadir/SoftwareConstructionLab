@@ -2,4 +2,4 @@
 
 Welcome to Software Construction
 
-Ok, No Welcome. Welcome Cancel
+Ok, No Welcome. Welcome Cancelled
